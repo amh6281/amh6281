@@ -1,15 +1,3 @@
-### 🤞 Nice way to meet me
-
-<p>
-  👋&nbsp; <b>안녕하세요! 프론트엔드 개발자를 꿈꾸는 안명회입니다.</b>🚀<br/>
-  :sparkles:&nbsp; <b>저는 MERN Stack 기반의 웹사이트 구축을 좋아합니다!</b><br/>
-  :star2:&nbsp; <b>최근에는 TypeScript 언어에 관심이 생겨 프로젝트를 진행 중입니다!</b><br/>
-  :grey_question:&nbsp; <b>개발에 많은 어려움을 직면하였지만, 문제에 대한 문서를 찾아 극복하는 과정에서 성장함을 느낍니다.</b><br/><br/>
-  :book:&nbsp; <b>현재 수준에 만족하지 않고 배움에 욕심이 많습니다.</b><br/>
-  :thought_balloon:&nbsp; <b>"못할 건 없다"라는 생각으로 개발에 임합니다.</b><br/><br/>
-</p>
-
-
 ### 💪 Skills
 #### Front-End
 <p>
